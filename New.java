@@ -2,6 +2,7 @@ class New
   {
     public static void main (String Args[])
     {
-      System.ou.println("Hi");
+      System.out.println("Hi");
+      System.out.println("The");
     }
   }
